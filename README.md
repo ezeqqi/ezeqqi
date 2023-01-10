@@ -1,7 +1,5 @@
 ## Olá sou Ezequiel Silveira
 
-- 🔭 Estou buscando a oportunidade de iniciar profissionalmente minha carreira como desenvolvedor!
-- 🌱 Oriento meus estudos por projeto, com objetivo de criar aplicações que resolvam os problemas do usuário e comprovem minhas habilidades.
 <div align="center">
   <a href="https://github.com/ezeqqi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ezeqqi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
